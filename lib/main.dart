@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
             Text(
-              "IT Professional",
+              "Flutter Developer",
               style: TextStyle(
                 fontFamily: 'SourceSans',
                 fontSize: 20,
